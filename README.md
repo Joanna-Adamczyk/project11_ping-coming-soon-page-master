@@ -15,5 +15,5 @@ The users can:<br>
 
 ## Technologies
 - HTML
-- CSS + Sass 
+- CSS together with pre-processor Sass 
 - JavaScript
